@@ -3115,4 +3115,34 @@ f[0K
  create mode 100644 webfonts/fa-v4compatibility.ttf[0K
  create mode 100644 webfonts/fa-v4compatibility.woff2[0K
 [0K
-C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>g[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git d[0K[?25hd[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git d[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git[0K[52G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git a[0K[?25hd[0Kd[0K[56G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add .[0K[?25h
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>g[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git d[0K[?25hd[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git d[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git[0K[52G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git a[0K[?25hd[0Kd[0K[56G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25h]0; [?25l
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git c[0K[?25ho[0Km[0Km[0Ki[0K[0Kt[?25l
+[0K[?25h[2G[?25l '[0K[?25h[?25l[0K[2G[?25h[?25l -[0K[?25hm[0K[5G[?25l -m '[0K[?25h'[0K[?25l -m '[0K[?25h[?25l -m[0K[5G[?25h[?25l -m "[0K[?25h"[0K[6G[?25l -m "a"[0K[7G[?25h[?25l -m "ad"[0K[8G[?25h[?25l -m "add"[0K[9G[?25h[?25l -m "addi"[0K[10G[?25h[?25l -m "addin"[0K[11G[?25h[?25l -m "adding"[0K[12G[?25h[?25l -m "adding "[0K[13G[?25h[?25l -m "adding c"[0K[14G[?25h[?25l -m "adding co"[0K[15G[?25h[?25l -m "adding con"[0K[16G[?25h[?25l -m "adding conf"[0K[17G[?25h[?25l -m "adding confi"[0K[18G[?25h[?25l -m "adding config"[0K[19G[?25h[?25l -m "adding config."[0K[20G[?25h[?25l -m "adding config.t"[0K[21G[?25h[?25l -m "adding config.to"[0K[22G[?25h[?25l -m "adding config.tom"[0K[23G[?25h[?25l -m "adding config.toml"[0K[24G[?25h[?25l -m "adding config.toml "[0K[25G[?25h[?25l -m "adding config.toml f"[0K[26G[?25h[?25l -m "adding config.toml fi"[0K[27G[?25h[?25l -m "adding config.toml fil"[0K[28G[?25h[?25l -m "adding config.toml file"[0K[29G[?25h[?25l -m "adding config.toml files"[0K[30G[?25h[?25l -m "adding config.toml file"[0K[29G[?25h]0;  - git  commit -m "adding config.toml file"[?25l
+[0K[?25h]0; [main 5e8f1e9] adding config.toml file[0K[?25l
+ Committer: Max Wolpert <max.wolpert2@mail.mcgill.ca>[0K
+Your name and email address were configured automaticall[0Ky
+ based[0K
+on your username and hostname. Please check that they ar[0Ke
+ accurate.[0K
+You can suppress this message by setting them explicitly[0K.
+ Run the[0K
+following command and follow the instructions in your ed[0Ki
+tor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this[0K
+commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 2 files changed, 956 insertions(+), 1 deletion(-)[0K
+ create mode 100644 config.toml[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hgit commi[0Kt[?25l
+ -m "adding config.toml file"[0K[?25h[?25l[1AC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add .[0K
+[0K[1A[57G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git commi[0Kt
+ -m "adding in html files for public website"[0K[?25h[?25l[1AC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add .[0K
+[0K[1A[57G[?25h

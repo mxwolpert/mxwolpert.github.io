@@ -1,0 +1,78 @@
+[0mMicrosoft Windows [Version 10.0.19045.2604][0K[?25l
+(c) Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25hremote: Enumerating objects: 14, done.[0K[?25l
+remote: Counting objects: 100% (14/14), done.[0K
+remote: Compressing objects: 100% (8/8), done.[0K
+[0K[?25hremote: Total 9 (delta 4), reused 0 (delta 0), pack-reus[0Ke[?25l
+d 0[0K
+[0K[?25h[?25lUnpacking objects:  88% (8/9)[0K[1G[?25hUnpacking objects: 100% (9/9), 2.15 KiB | 62.00 KiB/s, d[0Ko[?25l
+ne.[0K
+[0K[?25hFrom https://github.com/mxwolpert/mxwolpert.github.io[0K[?25l
+   265808f..a238efc  main       -> origin/main[0K
+[0K[?25h]0; error: Your local changes to the following files would b[0Ke[?25l
+ overwritten by merge:[0K
+        config/_default/config.yaml[0K
+Please commit your changes or stash them before you merg[0Ke
+.[0K
+Aborting[0K
+Updating 265808f..a238efc[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hp[0Ku[0Kl[0Kl[0K[?25l
+[0K[?25h'pull' is not recognized as an internal or external comm[0Ka[?25l
+nd,[0K
+operable program or batch file.[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25herror: Your local changes to the following files would b[0Ke[?25l
+ overwritten by merge:[0K
+        config/_default/config.yaml[0K
+Please commit your changes or stash them before you merg[0Ke
+.[0K
+Aborting[0K
+Updating 265808f..a238efc[0K
+[0K[?25h]0; [?25l
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hr[0Ke[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>r[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hgt[0Ki[0Kt[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>gti[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>gt[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>g[0K[?25hi[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git r[0K[?25he[0Ks[0Ke[0Kt[0K]0;  - git  reset[?25l
+[0K[?25hUnstaged changes after reset:[0K[?25l
+M       config/_default/config.yaml[0K
+[0K[?25h]0; [?25l
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25herror: Your local changes to the following files would b[0Ke[?25l
+ overwritten by merge:[0K
+        config/_default/config.yaml[0K
+Please commit your changes or stash them before you merg[0Ke
+.[0K
+Aborting[0K
+Updating 265808f..a238efc[0K
+[0K[?25h]0; [?25l
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hgit pull[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git reset[0K[?25h]0;  - git  reset[?25l
+[0K[?25h]0; Unstaged changes after reset:[0K[?25l
+M       config/_default/config.yaml[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hgit reset[0K]0;  - git  reset[?25l
+[0K[?25h]0; Unstaged changes after reset:[0K[?25l
+M       config/_default/config.yaml[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25herror: Your local changes to the following files would b[0Ke[?25l
+ overwritten by merge:[0K
+        config/_default/config.yaml[0K
+Please commit your changes or stash them before you merg[0Ke
+.[0K
+Aborting[0K
+Updating 265808f..a238efc[0K
+[0K[?25h]0; [?25l
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25hUpdating 265808f..a238efc[0K[?25l
+Fast-forward[0K
+[0K[?25h]0;  config.toml                 | 3 [0;32m++[0;31m-[0m[0K[?25l
+ config/_default/config.yaml | 2 [0;32m+[0;31m-[0m[0K
+ 2 files changed, 3 insertions(+), 2 deletions(-)[0K
+[0K
+C:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>gi[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>g[0K[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>[0K[?25hg[0Ki[0Kt[0K[52G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git a[0K[?25hd[0Kd[0K[56G[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add -[0K[?25h[0Ka[?25l
+[0K[?25hl[0Kl[0K[?25ll[0K[?25h[?25l[0K[?25h[?25l[1AC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add -[0K
+[0K[1A[57G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add[0K
+[0K[1A[56G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add -[0K
+[0K[1A[57G[?25h[?25lC:\Users\mwolpe1\Documents\mxwolpert.github.io>git add -[0K-
+[0K[?25ha[0Kl[0Kl[0K

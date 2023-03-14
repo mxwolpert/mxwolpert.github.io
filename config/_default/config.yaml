@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Max Wolpert # Website name
-baseURL: 'mxwolpert.github.io/' # Website URL
+baseURL: 'https://mxwolpert.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

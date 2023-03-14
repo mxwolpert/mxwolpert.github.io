@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max Wolpert</title>
-    <link>mxwolpert.github.io/</link>
-      <atom:link href="mxwolpert.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mxwolpert.github.io/</link>
+      <atom:link href="https://mxwolpert.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Max Wolpert</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Max Wolpert</title>
-      <link>mxwolpert.github.io/</link>
+      <link>https://mxwolpert.github.io/</link>
     </image>
     
     <item>
       <title>Research</title>
-      <link>mxwolpert.github.io/projects/projects/</link>
+      <link>https://mxwolpert.github.io/projects/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/projects/</guid>
+      <guid>https://mxwolpert.github.io/projects/projects/</guid>
       <description>&lt;p&gt;My work centers around processing at the sentence level. How do human parsers use competing sources of information to make sense of structure? How can we use diverse languages and language experiences to know what pieces of processing architecture are universal and what parts are shaped by experience? Do two or more languages occupying the same brain have shared or separate neural and cognitive representations?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>mxwolpert.github.io/publication/publications/</link>
+      <link>https://mxwolpert.github.io/publication/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/publications/</guid>
+      <guid>https://mxwolpert.github.io/publication/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -36,9 +36,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>mxwolpert.github.io/talk/example-talk/</link>
+      <link>https://mxwolpert.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/talk/example-talk/</guid>
+      <guid>https://mxwolpert.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -56,9 +56,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>mxwolpert.github.io/post/getting-started/</link>
+      <link>https://mxwolpert.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/post/getting-started/</guid>
+      <guid>https://mxwolpert.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -136,9 +136,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>mxwolpert.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://mxwolpert.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>mxwolpert.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://mxwolpert.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -175,7 +175,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;mxwolpert.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://mxwolpert.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -186,9 +186,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>mxwolpert.github.io/post/writing-technical-content/</link>
+      <link>https://mxwolpert.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/post/writing-technical-content/</guid>
+      <guid>https://mxwolpert.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -288,7 +288,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-849573261&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-981547362&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -298,7 +298,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-849573261&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-981547362&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -580,9 +580,9 @@ Crash --&gt; [*]
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>mxwolpert.github.io/publication/preprint/</link>
+      <link>https://mxwolpert.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/preprint/</guid>
+      <guid>https://mxwolpert.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -594,9 +594,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>mxwolpert.github.io/post/jupyter/</link>
+      <link>https://mxwolpert.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/post/jupyter/</guid>
+      <guid>https://mxwolpert.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -653,9 +653,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>mxwolpert.github.io/slides/example/</link>
+      <link>https://mxwolpert.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/slides/example/</guid>
+      <guid>https://mxwolpert.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -778,35 +778,35 @@ $$&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>mxwolpert.github.io/privacy/</link>
+      <link>https://mxwolpert.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>mxwolpert.github.io/privacy/</guid>
+      <guid>https://mxwolpert.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>mxwolpert.github.io/terms/</link>
+      <link>https://mxwolpert.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>mxwolpert.github.io/terms/</guid>
+      <guid>https://mxwolpert.github.io/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Addressee Identity and Morphosyntactic Processing in Basque Allocutive Agreement</title>
-      <link>mxwolpert.github.io/publication/2017/</link>
+      <link>https://mxwolpert.github.io/publication/2017/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2017/</guid>
+      <guid>https://mxwolpert.github.io/publication/2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2019/</link>
+      <link>https://mxwolpert.github.io/publication/2019/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2019/</guid>
+      <guid>https://mxwolpert.github.io/publication/2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -823,9 +823,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2020/</link>
+      <link>https://mxwolpert.github.io/publication/2020/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2020/</guid>
+      <guid>https://mxwolpert.github.io/publication/2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -842,9 +842,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2021/</link>
+      <link>https://mxwolpert.github.io/publication/2021/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2021/</guid>
+      <guid>https://mxwolpert.github.io/publication/2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -861,9 +861,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2022/</link>
+      <link>https://mxwolpert.github.io/publication/2022/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2022/</guid>
+      <guid>https://mxwolpert.github.io/publication/2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -880,9 +880,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2023-1/</link>
+      <link>https://mxwolpert.github.io/publication/2023-1/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2023-1/</guid>
+      <guid>https://mxwolpert.github.io/publication/2023-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -899,9 +899,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2023-2/</link>
+      <link>https://mxwolpert.github.io/publication/2023-2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2023-2/</guid>
+      <guid>https://mxwolpert.github.io/publication/2023-2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -918,9 +918,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/journal-article/</link>
+      <link>https://mxwolpert.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/journal-article/</guid>
+      <guid>https://mxwolpert.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -937,9 +937,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>mxwolpert.github.io/publication/conference-paper/</link>
+      <link>https://mxwolpert.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/conference-paper/</guid>
+      <guid>https://mxwolpert.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -956,25 +956,25 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>mxwolpert.github.io/admin/config.yml</link>
+      <link>https://mxwolpert.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/admin/config.yml</guid>
+      <guid>https://mxwolpert.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>mxwolpert.github.io/profile/</link>
+      <link>https://mxwolpert.github.io/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/profile/</guid>
+      <guid>https://mxwolpert.github.io/profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adjective placement</title>
-      <link>mxwolpert.github.io/projects/adjective-placement/</link>
+      <link>https://mxwolpert.github.io/projects/adjective-placement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/adjective-placement/</guid>
+      <guid>https://mxwolpert.github.io/projects/adjective-placement/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wolpert M&lt;/strong&gt;, Zhang H, Baum S, Steinhauer K, &lt;strong&gt;soon to be submitted&lt;/strong&gt; | Native and non-native parsing of adjective placement – an ERP study of Mandarin and English sentence processing&lt;/li&gt;
@@ -989,9 +989,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Argument structure</title>
-      <link>mxwolpert.github.io/projects/argument-structure/</link>
+      <link>https://mxwolpert.github.io/projects/argument-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/argument-structure/</guid>
+      <guid>https://mxwolpert.github.io/projects/argument-structure/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wolpert M&lt;/strong&gt;, Ao J, Zhang H, Baum S, Steinhauer K, &lt;strong&gt;soon to be submitted&lt;/strong&gt; | The child the apple eats – processing of argument structure in Mandarin verb-final sentences&lt;/li&gt;
@@ -1005,9 +1005,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Bilingual speech segmentation</title>
-      <link>mxwolpert.github.io/projects/bilingual-speech-segmentation/</link>
+      <link>https://mxwolpert.github.io/projects/bilingual-speech-segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/bilingual-speech-segmentation/</guid>
+      <guid>https://mxwolpert.github.io/projects/bilingual-speech-segmentation/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gilbert A, Lee J, Coulter K, &lt;strong&gt;Wolpert M&lt;/strong&gt;, Kousaie S, Gracco V, Klein D, Titone D, Phillips N, Baum S, 2021 | &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2021.705668&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spoken Word Segmentation in First and Second Language: When ERP and Behavioral Measures Diverge&lt;/a&gt;&lt;/li&gt;
@@ -1021,9 +1021,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Interlocutor identity</title>
-      <link>mxwolpert.github.io/projects/interlocutor-identity/</link>
+      <link>https://mxwolpert.github.io/projects/interlocutor-identity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/interlocutor-identity/</guid>
+      <guid>https://mxwolpert.github.io/projects/interlocutor-identity/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Caffarra S, &lt;strong&gt;Wolpert M&lt;/strong&gt;, Scarinci D, Mancini S, 2020 | &lt;a href=&#34;https://doi.org/10.1111/psyp.13527&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Who are you talking to? The role of addressee identity in utterance comprehension&lt;/a&gt;&lt;/li&gt;

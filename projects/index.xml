@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max Wolpert</title>
-    <link>mxwolpert.github.io/projects/</link>
-      <atom:link href="mxwolpert.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mxwolpert.github.io/projects/</link>
+      <atom:link href="https://mxwolpert.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Max Wolpert</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Max Wolpert</title>
-      <link>mxwolpert.github.io/projects/</link>
+      <link>https://mxwolpert.github.io/projects/</link>
     </image>
     
     <item>
       <title>Research</title>
-      <link>mxwolpert.github.io/projects/projects/</link>
+      <link>https://mxwolpert.github.io/projects/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/projects/</guid>
+      <guid>https://mxwolpert.github.io/projects/projects/</guid>
       <description>&lt;p&gt;My work centers around processing at the sentence level. How do human parsers use competing sources of information to make sense of structure? How can we use diverse languages and language experiences to know what pieces of processing architecture are universal and what parts are shaped by experience? Do two or more languages occupying the same brain have shared or separate neural and cognitive representations?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adjective placement</title>
-      <link>mxwolpert.github.io/projects/adjective-placement/</link>
+      <link>https://mxwolpert.github.io/projects/adjective-placement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/adjective-placement/</guid>
+      <guid>https://mxwolpert.github.io/projects/adjective-placement/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wolpert M&lt;/strong&gt;, Zhang H, Baum S, Steinhauer K, &lt;strong&gt;soon to be submitted&lt;/strong&gt; | Native and non-native parsing of adjective placement – an ERP study of Mandarin and English sentence processing&lt;/li&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Argument structure</title>
-      <link>mxwolpert.github.io/projects/argument-structure/</link>
+      <link>https://mxwolpert.github.io/projects/argument-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/argument-structure/</guid>
+      <guid>https://mxwolpert.github.io/projects/argument-structure/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Wolpert M&lt;/strong&gt;, Ao J, Zhang H, Baum S, Steinhauer K, &lt;strong&gt;soon to be submitted&lt;/strong&gt; | The child the apple eats – processing of argument structure in Mandarin verb-final sentences&lt;/li&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Bilingual speech segmentation</title>
-      <link>mxwolpert.github.io/projects/bilingual-speech-segmentation/</link>
+      <link>https://mxwolpert.github.io/projects/bilingual-speech-segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/bilingual-speech-segmentation/</guid>
+      <guid>https://mxwolpert.github.io/projects/bilingual-speech-segmentation/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gilbert A, Lee J, Coulter K, &lt;strong&gt;Wolpert M&lt;/strong&gt;, Kousaie S, Gracco V, Klein D, Titone D, Phillips N, Baum S, 2021 | &lt;a href=&#34;https://doi.org/10.3389/fpsyg.2021.705668&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spoken Word Segmentation in First and Second Language: When ERP and Behavioral Measures Diverge&lt;/a&gt;&lt;/li&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Interlocutor identity</title>
-      <link>mxwolpert.github.io/projects/interlocutor-identity/</link>
+      <link>https://mxwolpert.github.io/projects/interlocutor-identity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/projects/interlocutor-identity/</guid>
+      <guid>https://mxwolpert.github.io/projects/interlocutor-identity/</guid>
       <description>&lt;p&gt;Relevant Publications&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Caffarra S, &lt;strong&gt;Wolpert M&lt;/strong&gt;, Scarinci D, Mancini S, 2020 | &lt;a href=&#34;https://doi.org/10.1111/psyp.13527&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Who are you talking to? The role of addressee identity in utterance comprehension&lt;/a&gt;&lt;/li&gt;

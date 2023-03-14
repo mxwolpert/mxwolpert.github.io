@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Max Wolpert</title>
-    <link>mxwolpert.github.io/publication/</link>
-      <atom:link href="mxwolpert.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mxwolpert.github.io/publication/</link>
+      <atom:link href="https://mxwolpert.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mxwolpert.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>mxwolpert.github.io/publication/</link>
+      <link>https://mxwolpert.github.io/publication/</link>
     </image>
     
     <item>
       <title>Recent Publications</title>
-      <link>mxwolpert.github.io/publication/publications/</link>
+      <link>https://mxwolpert.github.io/publication/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/publications/</guid>
+      <guid>https://mxwolpert.github.io/publication/publications/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
@@ -27,9 +27,9 @@
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>mxwolpert.github.io/publication/preprint/</link>
+      <link>https://mxwolpert.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/preprint/</guid>
+      <guid>https://mxwolpert.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -41,17 +41,17 @@
     
     <item>
       <title>Addressee Identity and Morphosyntactic Processing in Basque Allocutive Agreement</title>
-      <link>mxwolpert.github.io/publication/2017/</link>
+      <link>https://mxwolpert.github.io/publication/2017/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2017/</guid>
+      <guid>https://mxwolpert.github.io/publication/2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2019/</link>
+      <link>https://mxwolpert.github.io/publication/2019/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2019/</guid>
+      <guid>https://mxwolpert.github.io/publication/2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -68,9 +68,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2020/</link>
+      <link>https://mxwolpert.github.io/publication/2020/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2020/</guid>
+      <guid>https://mxwolpert.github.io/publication/2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -87,9 +87,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2021/</link>
+      <link>https://mxwolpert.github.io/publication/2021/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2021/</guid>
+      <guid>https://mxwolpert.github.io/publication/2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -106,9 +106,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2022/</link>
+      <link>https://mxwolpert.github.io/publication/2022/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2022/</guid>
+      <guid>https://mxwolpert.github.io/publication/2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -125,9 +125,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2023-1/</link>
+      <link>https://mxwolpert.github.io/publication/2023-1/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2023-1/</guid>
+      <guid>https://mxwolpert.github.io/publication/2023-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -144,9 +144,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/2023-2/</link>
+      <link>https://mxwolpert.github.io/publication/2023-2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/2023-2/</guid>
+      <guid>https://mxwolpert.github.io/publication/2023-2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -163,9 +163,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>mxwolpert.github.io/publication/journal-article/</link>
+      <link>https://mxwolpert.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/journal-article/</guid>
+      <guid>https://mxwolpert.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -182,9 +182,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>mxwolpert.github.io/publication/conference-paper/</link>
+      <link>https://mxwolpert.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>mxwolpert.github.io/publication/conference-paper/</guid>
+      <guid>https://mxwolpert.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

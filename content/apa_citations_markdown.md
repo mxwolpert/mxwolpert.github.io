@@ -1,0 +1,15 @@
+# APA-style citations
+
+These are generated from the uploaded BibTeX file. DOI links are included where available.
+
+- Li, C., Sun, P. P., & Wolpert, M. (2026). Effects of task emotions and attention control on L2 speech performance across tasks with different cognitive demands. *Language Teaching*. https://doi.org/10.1017/S0261444826101311
+- Gilbert, A. C., Gullifer, J., Kousaie, S., Wolpert, M., Titone, D., & Baum, S. R. (2026). Finding the Key in Kiwi During Second Language Spoken Production: Low Proficiency Speakers Sound More Native-Like if They Live in Mixed-Language Environments. *Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*, *80*(1), 10–21. https://doi.org/10.1037/cep0000372
+- Wolpert, M., Zhang, H., Baum, S., & Steinhauer, K. (2024). Native and non-native parsing of adjective placement - An ERP study of Mandarin and English sentence processing. *Brain and Language*, *254*, 105427. https://doi.org/10.1016/j.bandl.2024.105427
+- Chen, H., Zhang, M., Ye, T., Wolpert, M. A., & Ding, N. (2025). Low-frequency cortical activity reflects context-dependent parsing of word sequences. *iScience*, *28*(6), 112650. https://doi.org/10.1016/j.isci.2025.112650
+- Wolpert, M., Ao, J., Zhang, H., Baum, S., & Steinhauer, K. (2024). The child the apple eats: processing of argument structure in Mandarin verb-final sentences. *Scientific Reports*, *14*(1), 20459. https://doi.org/10.1038/s41598-024-70318-5
+- Zhang, M., Wang, J., Zhang, Y., Wolpert, M. A., & Ding, N. (2025). Influence of long talker-to-listener distance on temporal properties of speech. *JASA Express Letters*, *5*(12), 125201. https://doi.org/10.1121/10.0041806
+- Gilbert, A. C., Lee, J. G., Wolpert, M., & Baum, S. R. (2023). Phrase parsing in a second language as indexed by the closure positive shift: The impact of language experience and acoustic cue salience. *European Journal of Neuroscience*, *58*(8), 3838–3858. https://doi.org/10.1111/ejn.16134
+- Gilbert, A. C., Wolpert, M., Saito, H., Kousaie, S., Itzhak, I., & Baum, S. R. (2019). Adaptive and selective production of syllable duration and fundamental frequency as word segmentation cues by French-English bilinguals. *Journal of the Acoustical Society of America*, *146*(6), 4255–4272. https://doi.org/10.1121/1.5134781
+- Caffarra, S., Wolpert, M., Scarinci, D., & Mancini, S. (2020). Who are you talking to? The role of addressee identity in utterance comprehension. *Psychophysiology*, *57*(4), e13527. https://doi.org/10.1111/psyp.13527
+- Wolpert, M., Mancini, S., & Caffarra, S. (2017). Addressee Identity and Morphosyntactic Processing in Basque Allocutive Agreement. *Frontiers in Psychology*, *8*, 1439. https://doi.org/10.3389/fpsyg.2017.01439
+- Gilbert, A. C., Lee, J. G., Coulter, K., Wolpert, M. A., Kousaie, S., Gracco, V. L., Klein, D., Titone, D., Phillips, N. A., & Baum, S. R. (2021). Spoken Word Segmentation in First and Second Language: When ERP and Behavioral Measures Diverge. *Frontiers in Psychology*, *12*, 705668. https://doi.org/10.3389/fpsyg.2021.705668

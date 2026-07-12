@@ -1,0 +1,237 @@
+<style>
+
+/* Hero image size */
+#intro img {
+  width: 260px !important;
+  max-width: 260px !important;
+  height: auto !important;
+  object-fit: cover;
+}
+
+/* Optional: make it circular */
+#intro img {
+  border-radius: 9999px;
+}
+
+/* On mobile, make it a little smaller */
+@media (max-width: 700px) {
+  #intro img {
+    width: 200px !important;
+    max-width: 200px !important;
+  }
+}
+
+/* --- Hero layout tuning --- */
+
+/* Make the whole hero area less spread out */
+#intro > div,
+#intro .container,
+#intro .max-w-7xl,
+#intro .max-w-screen-xl {
+  max-width: 980px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Force the split hero into a compact two-column layout */
+#intro .grid {
+  grid-template-columns: 280px minmax(0, auto) !important;
+  justify-content: center !important;
+  align-items: center !important;
+  column-gap: 3rem !important;
+}
+
+/* Keep the photo controlled */
+#intro img {
+  width: 260px !important;
+  max-width: 260px !important;
+  height: auto !important;
+  object-fit: cover !important;
+}
+
+/* Reduce name size and prevent wrapping on desktop */
+#intro h1 {
+  font-size: clamp(2.7rem, 4vw, 4.2rem) !important;
+  line-height: 1.05 !important;
+  white-space: nowrap !important;
+}
+
+/* Keep subtitle and buttons aligned with the name */
+#intro p,
+#intro .prose {
+  text-align: left !important;
+}
+
+/* Mobile: stack normally and allow wrapping */
+@media (max-width: 800px) {
+  #intro .grid {
+    grid-template-columns: 1fr !important;
+    row-gap: 2rem !important;
+  }
+
+  #intro h1 {
+    white-space: normal !important;
+    text-align: center !important;
+    font-size: clamp(2.2rem, 9vw, 3rem) !important;
+  }
+
+  #intro p,
+  #intro .prose {
+    text-align: center !important;
+  }
+
+  #intro img {
+    width: 210px !important;
+    max-width: 210px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+/* Wider one-page sections */
+section[id="about"],
+section[id="research"],
+section[id="education"],
+section[id="cv"] {
+  width: 100% !important;
+}
+
+/* Override common inner containers */
+section[id="about"] > div,
+section[id="research"] > div,
+section[id="education"] > div,
+section[id="cv"] > div,
+section[id="research"] .container,
+section[id="education"] .container,
+section[id="cv"] .container,
+section[id="research"] .prose,
+section[id="education"] .prose,
+section[id="cv"] .prose {
+  max-width: 1050px !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: left !important;
+}
+
+/* Make paragraph content actually use the width */
+section[id="about"] .prose > *,
+section[id="research"] .prose > *,
+section[id="education"] .prose > *,
+section[id="cv"] .prose > * {
+  max-width: 100% !important;
+}
+
+/* Research section can be wider */
+section[id="about"] > div,
+section[id="research"] > div,
+section[id="research"] .container,
+section[id="research"] .prose {
+  max-width: 1200px !important;
+}
+
+/* Custom research grid */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 900px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Research grid */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(260px, 1fr));
+  gap: 3.5rem;
+  margin-top: 3rem;
+  max-width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.research-grid h3 {
+  font-size: 1.8rem !important;
+  line-height: 1.15 !important;
+  margin-bottom: 1rem !important;
+}
+
+.research-grid p {
+  font-size: 1.05rem !important;
+  line-height: 1.65 !important;
+}
+
+/* Stack on narrower screens */
+@media (max-width: 1000px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+    max-width: 750px;
+    gap: 2rem;
+  }
+}
+
+#research .prose > p:nth-of-type(1),
+#research .prose > p:nth-of-type(2) {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+}
+
+#research .research-grid,
+#research .research-grid p {
+  text-align: left !important;
+}
+
+.research-grid > div {
+  padding: 1.8rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.research-grid h4 {
+  text-align: center !important;
+}
+
+/* Disable internal publication-page links while keeping DOI links active */
+#publications a[href*="/publications/"] {
+  pointer-events: none !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  cursor: default !important;
+}
+
+/* Same idea for Chinese URLs, just in case
+#publications a[href*="/zh/publications/"] {
+  pointer-events: none !important;
+  color: inherit !important;
+  text-decoration: none !important;
+  cursor: default !important;
+} */
+
+/* Keep DOI links visibly clickable */
+#publications a[href*="doi.org"],
+#publications a[href^="https://doi.org"] {
+  pointer-events: auto !important;
+  color: var(--primary, #4f46e5) !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+#intro a[href*="orcid.org"],
+#intro a[href*="scholar.google"] {
+  font-weight: 600 !important;
+  text-decoration: none !important;
+}
+
+#intro a[href*="orcid.org"]:hover,
+#intro a[href*="scholar.google"]:hover {
+  text-decoration: underline !important;
+}
+</style>

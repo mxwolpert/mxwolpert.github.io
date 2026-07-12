@@ -1,0 +1,62 @@
+/* 1. Kill hardcoded prose pixel limits (the main culprit) */
+#about .prose,
+#research .prose,
+#education .prose,
+#cv .prose,
+.prose {
+  max-width: unset !important;
+  width: 100% !important;
+  margin-inline: auto !important;
+  text-align: left;
+}
+
+.article-container {
+  max-width: 920px !important;
+  padding: 0 20px 0 20px;
+  margin: 0 auto 0 auto;
+}
+
+.full_table {
+  display: table;
+  width: 100%;
+}
+
+.full_table table thead {
+  display: table;
+  width: 100%;
+}
+
+.full_table table tbody {
+  display: table;
+  width: 100%;
+}
+
+/* 2. Unlock the markdown block outer section wrapper */
+section.markdown-block {
+  max-width: unset !important;
+  width: 100% !important;
+  padding-inline: 1rem;
+}
+
+/* 3. Global page shell full width override */
+.page-container {
+  max-width: 100% !important;
+  padding-inline: 2rem;
+  width: 100%;
+}
+
+/* 4. Force your research grid to fill full available width (fix cut-off table/columns) */
+#research .prose .grid {
+  width: 100% !important;
+  max-width: unset !important;
+}
+
+/* Optional: Prevent ultra-wide lines on 4K monitors (soft cap instead of hard lock) */
+.prose > * {
+  max-width: 1440px;
+  margin-inline: auto;
+}
+
+body {
+  outline: 6px solid red !important;
+}

@@ -1,0 +1,35 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  locale: en-us
+  label: English
+  title: Max Wolpert
+  weight: 1
+
+zh:
+  locale: zh-Hans
+  label: 中文
+  title: 吴晓麦 | Max Wolpert
+  weight: 2
+  params:
+    description: 吴晓麦的个人学术主页
+  menu:
+    main:
+    - name: 关于我
+      url: '#about'
+      weight: 10
+    - name: 研究
+      url: '#research'
+      weight: 20
+    - name: 代表性论文
+      url: '#publications'
+      weight: 40
+    - name: 教育与研究经历
+      url: '#education'
+      weight: 30
+    - name: 简历
+      url: '#cv'
+      weight: 50

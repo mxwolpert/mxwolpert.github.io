@@ -51,7 +51,7 @@ sections:
       text: |
         Language is not processed all at once. As we listen, read, or speak, we need to build structure and meaning from partial information.
 
-        My research asks how this process unfolds in real time. I study how people make sense of sentence structure, how learning and using more than one language changes comprehension and production, and how timing in speech helps speakers organize language and coordinate with others.
+        My research asks how this process unfolds in real time. I study how people make sense of sentence structure, how learning and using more than one language change comprehension and production, and how timing in speech helps speakers organize language and coordinate with others.
 
         <div class="research-grid">
 

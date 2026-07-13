@@ -16,7 +16,7 @@ baseURL: 'https://mxwolpert.github.io/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 

@@ -9,7 +9,7 @@ authors:
 date: "2025-12-01"
 publication_types: ["article-journal"]
 publication: "*JASA Express Letters*, *5*(12), 125201"
-publication_short: "JASA Express Letters"
+publication_short: "*JASA Express Letters*"
 doi: "10.1121/10.0041806"
 featured: true
 ---

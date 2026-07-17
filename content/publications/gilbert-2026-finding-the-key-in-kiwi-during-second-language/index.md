@@ -10,7 +10,7 @@ authors:
 date: "2026-03-01"
 publication_types: ["article-journal"]
 publication: "*Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*, *80*(1), 10–21"
-publication_short: "Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale"
+publication_short: "*Canadian Journal of Experimental Psychology / Revue canadienne de psychologie expérimentale*"
 doi: "10.1037/cep0000372"
 featured: true
 ---

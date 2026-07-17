@@ -14,7 +14,7 @@ authors:
 date: "2021-09-17"
 publication_types: ["article-journal"]
 publication: "*Frontiers in Psychology*, *12*, 705668"
-publication_short: "Frontiers in Psychology"
+publication_short: "*Frontiers in Psychology*"
 doi: "10.3389/fpsyg.2021.705668"
 featured: true
 ---

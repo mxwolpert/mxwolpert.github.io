@@ -10,7 +10,7 @@ authors:
 date: "2019-12-01"
 publication_types: ["article-journal"]
 publication: "*Journal of the Acoustical Society of America*, *146*(6), 4255–4272"
-publication_short: "Journal of the Acoustical Society of America"
+publication_short: "*Journal of the Acoustical Society of America*"
 doi: "10.1121/1.5134781"
 featured: true
 ---

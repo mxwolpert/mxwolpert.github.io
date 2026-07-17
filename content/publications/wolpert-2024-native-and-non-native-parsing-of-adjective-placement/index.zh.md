@@ -8,7 +8,7 @@ authors:
 date: "2024-07-01"
 publication_types: ["article-journal"]
 publication: "*Brain and Language*, *254*, 105427"
-publication_short: "Brain and Language"
+publication_short: "*Brain and Language*"
 doi: "10.1016/j.bandl.2024.105427"
 featured: true
 ---

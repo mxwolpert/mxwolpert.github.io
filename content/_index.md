@@ -8,7 +8,7 @@ sections:
   - block: hero
     id: intro
     content:
-      title: Max Wolpert | 吴晓麦
+      title: "Max Wolpert | <span lang=\"zh-Hans\" style=\"white-space: nowrap;\">吴晓麦</span>"
       text: |
         <a href="https://orcid.org/0000-0001-5312-710X">ORCID</a> · <a href="https://scholar.google.com/citations?user=CUE_MJkAAAAJ">Google Scholar</a>
       primary_action:
@@ -38,7 +38,7 @@ sections:
 
         My research asks how the mind builds sentence structure in real time, rapidly combining syntactic constraints, semantic plausibility, and prosody. These cues are weighted differently across languages and may also be used differently by native speakers, second language learners, and bilinguals. I use EEG, behavioral experiments, and acoustic analysis to study how language experience shapes these processes in comprehension and production. I am especially interested in what unfolds at the millisecond level during incremental sentence processing. As one of the most complex feats of human cognition, language can teach us how the brain uses structure, manages multiple levels of information, and adapts through learning.
 
-        I came to this work partly through my own long and sometimes humbling experience of learning and living in languages beyond my native English. My training has taken me from the US to Spain, Canada, and China, and I remain strongly committed to open and international science. 
+        I came to this work partly through my own long and humbling experience of learning and living in languages beyond my native English. My training has taken me from the US to Spain, Canada, and China, and I am committed to open and international science. 
 
         You can contact me at **max.wolpert [at] zju [dot] edu [dot] cn**.
 
@@ -98,26 +98,26 @@ sections:
       text: |
         **2026–present**  
         **Qiushi Postdoctoral Fellow**, Zhejiang University  
-        Hangzhou, China
+        Hangzhou, China<br>
         Supervisor: Wenlei Shi 史文磊
 
         **2024–2026**  
         **Postdoctoral Researcher**, Zhejiang University  
-        Hangzhou, China
+        Hangzhou, China<br>
         Supervisor: Nai Ding 丁鼐
 
         **2016–2023**  
         **PhD in Neuroscience**, McGill University  
-        Montréal, Canada  
+        Montréal, Canada<br>
         Supervisors: Karsten Steinhauer and Shari Baum
 
         **2015–2016**  
         **Master’s in Cognitive Neuroscience of Language**, University of the Basque Country / BCBL  
-        Donostia-San Sebastián, Spain
+        Donostia-San Sebastián, Spain<br>
         Supervisors: Sendy Caffarra & Simona Mancini
 
         **2010–2014**  
-        **BSc with Distinction**, University of North Carolina at Chapel Hill  
+        **BSc with Distinction**, University of North Carolina at Chapel Hill<br> 
         Chapel Hill, USA · double major: Chemistry and Hispanic Linguistics
 
   - block: markdown

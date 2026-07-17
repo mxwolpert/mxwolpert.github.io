@@ -7,9 +7,11 @@ authors:
   - "Simona Mancini"
 date: "2020-04-01"
 publication_types: ["article-journal"]
-publication: "*Psychophysiology*, *57*(4), e13527"
-publication_short: "Psychophysiology"
-doi: "10.1111/psyp.13527"
+publication: "*Psychophysiology*, 57(4), e13527"
+publication_short: "*Psychophysiology*"
 featured: true
+hugoblox:
+  ids:
+    doi: "10.1111/psyp.13527"
 ---
 

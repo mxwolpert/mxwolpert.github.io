@@ -7,7 +7,7 @@ authors:
 date: "2026-06-08"
 publication_types: ["article-journal"]
 publication: "*Language Teaching*"
-publication_short: "Language Teaching"
+publication_short: "*Language Teaching*"
 doi: "10.1017/S0261444826101311"
 featured: true
 ---

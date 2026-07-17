@@ -9,7 +9,7 @@ authors:
 date: "2024-09-03"
 publication_types: ["article-journal"]
 publication: "*Scientific Reports*, *14*(1), 20459"
-publication_short: "Scientific Reports"
+publication_short: "*Scientific Reports*"
 doi: "10.1038/s41598-024-70318-5"
 featured: true
 ---

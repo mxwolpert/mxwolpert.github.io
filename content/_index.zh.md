@@ -8,7 +8,7 @@ sections:
   - block: hero
     id: intro
     content:
-      title: Max Wolpert | 吴晓麦
+      title: "Max Wolpert | <span lang=\"zh-Hans\" style=\"white-space: nowrap;\">吴晓麦</span>"
       text: |
         <a href="https://orcid.org/0000-0001-5312-710X">ORCID</a> · <a href="https://scholar.google.com/citations?user=CUE_MJkAAAAJ">Google Scholar</a>
       primary_action:
